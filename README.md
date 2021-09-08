@@ -18,37 +18,21 @@ I like it because as it is a hill station there are clouds where we can feel to 
     1. St.Joseph
     2. Kansas City
 2. Kansas Airport - Doha Airport
-
 3. Doha Airport - Chennai Airport
-
 4. Chennai Airport - Chennai Railway Station
-
     1. Alandur
-
     2. Nagapattinam
-
 5. Chennai Railway Station - Vishakapatnam
-
     1. Nellore
-
     2. Ongole
-
     3. Vijayawada
-
     4. Eluru
-
     5. Anakapalle
-
     6. Duvvada
-
-6. Vishakapatnam - Araku
-
+6. Vishakapatnam - Arakuu
     1. Simhachalam
-
     2. Kottavalasa
-
     3. Shrungavarapukota
-
     4. Borra Guhalu
 
 ---
