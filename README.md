@@ -14,45 +14,42 @@ I like it because as it is a hill station there are clouds where we can feel to 
 
 ***Well!! here are the Directions.***
 
-1.Maryville - Kansas Airport
+1. Maryville - Kansas Airport
+    1. St.Joseph
+    2. Kansas City
+2. Kansas Airport - Doha Airport
 
-    1.St.Joseph
+3. Doha Airport - Chennai Airport
 
-    2.Kansas City
+4. Chennai Airport - Chennai Railway Station
 
-2.Kansas Airport - Doha Airport
+    1. Alandur
 
-3.Doha Airport - Chennai Airport
+    2. Nagapattinam
 
-4.Chennai Airport - Chennai Railway Station
+5. Chennai Railway Station - Vishakapatnam
 
-    1.Alandur
+    1. Nellore
 
-    2.Nagapattinam
+    2. Ongole
 
-5.Chennai Railway Station - Vishakapatnam
+    3. Vijayawada
 
-    1.Nellore
+    4. Eluru
 
-    2.Ongole
+    5. Anakapalle
 
-    3.Vijayawada
+    6. Duvvada
 
-    4.Eluru
+6. Vishakapatnam - Araku
 
-    5.Anakapalle
+    1. Simhachalam
 
-    6.Duvvada
+    2. Kottavalasa
 
-6.Vishakapatnam - Araku
+    3. Shrungavarapukota
 
-    1.Simhachalam
-
-    2.Kottavalasa
-
-    3.Shrungavarapukota
-    
-    4.Borra Guhalu
+    4. Borra Guhalu
 
 ---
 
