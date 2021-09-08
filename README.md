@@ -39,4 +39,15 @@ I like it because as it is a hill station there are clouds where we can feel to 
 ---
 **[Click for AboutMe Link](AboutMe.md)**
 
+---
+# JustTry It!
+
+**Foods/Drinks**
+| Foods/Drinks |
+| --- | --- | 
+| Sambar rice | 
+| French Omlet |
+| Oreo Milkshake |
+| Biryani |
+
 
