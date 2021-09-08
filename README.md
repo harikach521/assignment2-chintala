@@ -10,7 +10,7 @@
 I like it because as it is a hill station there are clouds where we can feel to touch and the  location is completely eye catchy.
 
 ---
-###### How to Travel?
+# How to Travel?
 
 *Well!! here are the Directions.*
 
