@@ -14,9 +14,7 @@ I like it because as it is a hill station there are clouds where we can feel to 
 
 ***Well!! here are the Directions.***
 
-1. Maryville - Kansas Airport
-    1. St.Joseph
-    2. Kansas City
+1. Maryville - Kansas Airport    
 2. Kansas Airport - Chennai Airport
 3. Chennai Airport - Chennai Railway Station
     1. Alandur
