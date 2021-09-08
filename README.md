@@ -36,5 +36,25 @@ I like it because as it is a hill station there are clouds where we can feel to 
     4. Borra Guhalu
 
 ---
+# What to carry?
+
+***includes for men, women and kids***
+
+* Shorts and short pants
+* Light Footwear
+* Skirts
+    * Long
+    * Short
+* Long and Short Sleeve Shirts
+* Suncreen Lotion
+    * SPF 50
+    * SPF 30
+* Bug repellent
+* Sandals
+    * Men
+    * Women
+    * Kids
+
+---
 
 
