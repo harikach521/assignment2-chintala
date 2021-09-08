@@ -17,19 +17,14 @@ I like it because as it is a hill station there are clouds where we can feel to 
 1. Maryville - Kansas Airport
     1. St.Joseph
     2. Kansas City
-2. Kansas Airport - Doha Airport
-3. Doha Airport - Chennai Airport
-4. Chennai Airport - Chennai Railway Station
+2. Kansas Airport - Chennai Airport
+3. Chennai Airport - Chennai Railway Station
     1. Alandur
     2. Nagapattinam
-5. Chennai Railway Station - Vishakapatnam
+4. Chennai Railway Station - Araku
     1. Nellore
-    2. Duvvada
-6. Vishakapatnam - Arakuu
-    1. Simhachalam    
     2. Borra Guhalu
 
----
 # What to carry?
 
 ***includes for men, women and kids***
