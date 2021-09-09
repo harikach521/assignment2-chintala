@@ -42,13 +42,16 @@ I like it because as it is a hill station there are clouds where we can feel to 
 ---
 # JustTry It!
 
-**Foods/Drinks**
+**Foods/Drinks** 
+---
 
-| Foods/Drinks |
-| --- | --- | 
-| Sambar rice | 
-| French Omlet |
-| Oreo Milkshake |
-| Biryani |
+Here are the Foods/Drinks that I would recommend to try.
+
+| Foods/Drinks | Location | Price(Rupees) |
+| ------ | ------ | ------ |
+| Sambar rice | Hderabad | 100 |
+| French Omlet | Hyderabad | 150 |
+| Oreo Milkshake | Maryville | 400 |
+| Biryani | Hyderabad | 100 |
 
 
