@@ -55,7 +55,11 @@ Here are the Foods/Drinks that I would recommend to try.
 | Biryani | Hyderabad | 100 |
 
 ---
+# Quotes
 
+> “Be who you are and say what you feel, because those who mind don't matter and those who matter don't mind.” ... *Swamy Vivekananda*
+
+> “The best way to predict the future is to invent it.” ... *Nelson Mandela*
 
 
 
