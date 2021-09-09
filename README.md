@@ -42,8 +42,8 @@ I like it because as it is a hill station there are clouds where we can feel to 
 ---
 # JustTry It!
 
-**Foods/Drinks** 
----
+***Foods/Drinks*** 
+
 
 Here are the Foods/Drinks that I would recommend to try.
 
@@ -53,5 +53,9 @@ Here are the Foods/Drinks that I would recommend to try.
 | French Omlet | Hyderabad | 150 |
 | Oreo Milkshake | Maryville | 400 |
 | Biryani | Hyderabad | 100 |
+
+---
+
+
 
 
