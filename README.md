@@ -68,6 +68,7 @@ Here are the Foods/Drinks that I would recommend to try.
 
 We want to solve the problem of comparing strings efficiently. The brute force way of doing so is just to compare the letters of both strings, which has a time complexity of O(min(n1,n2)) if n1 and n2 are the sizes of the two strings. We want to do better. The idea behind strings is the following: we convert each string into an integer and compare those instead of the strings. Comparing two strings is then an O(1) operation. For the conversion, we need a so-called **hash function**.
 
+```
 long long compute_hash(string const& s) {
     const int p = 31;
     const int m = 1e9 + 9;
@@ -79,6 +80,8 @@ long long compute_hash(string const& s) {
     }
     return hash_value;
 }
+
+```
 
 [Here is the link to know more about String Hashing](https://cp-algorithms.com/string/string-hashing.html) 
 
